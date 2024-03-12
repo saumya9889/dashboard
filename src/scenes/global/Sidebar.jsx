@@ -109,7 +109,8 @@ const Sidebar = () => {
                   fontWeight="bold"
                   sx={{ m: "10px 0 0 0" }}
                 >
-                  Saumya Mishra                </Typography>
+                  john doe
+                </Typography>
                 <Typography variant="h2" color={colors.greenAccent[500]}>
                   Test protoype
                 </Typography>
